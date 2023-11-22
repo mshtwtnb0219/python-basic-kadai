@@ -6,4 +6,4 @@ bottom = 20
 #高さ
 high = 5
 #台形の面積
-print(f"{(top + bottom) * high /2 } + cm²")
+print(f"{(top + bottom) * high /2 }cm²")

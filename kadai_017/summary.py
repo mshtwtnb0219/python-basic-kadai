@@ -10,7 +10,7 @@ class Human:
             print(f"名前 {self.name} ：年齢{self.age}未成年です")
 
 
-#複数人分のリスト
+#Humanクラスをインスタンス化してリストに追加
 humans = [Human("太郎",10),Human("次郎",20),Human("三郎",15)]
 
 for human in humans:
